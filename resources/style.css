@@ -26,3 +26,29 @@ a{
   margin-left: 60px;
   float: right;
 }
+
+.small{
+  display: inline-block;
+  float: right;
+  width: 240px;
+}
+
+.large{
+  display: inline-block;
+  margin-top: 40px;
+  width: 630px;
+}
+
+.image{
+  position: relative;
+  width: 100%;
+}
+
+h2{
+  position: absolute;
+  top: 50px;
+  left: 75px;
+  width: 100%;
+  color: white;
+  font-size: 40px;
+}
