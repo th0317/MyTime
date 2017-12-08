@@ -23,6 +23,7 @@ a{
   display: flex;
   list-style: none;
   margin-left: 60px;
+  float: right;
 }
 
 li{
