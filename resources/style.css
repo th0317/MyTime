@@ -6,6 +6,8 @@
   display: flex;
   padding: 6px;
   margin: 5px;
+  width: 100%;
+  border-bottom: 1px solid black;
 }
 
 p{
@@ -24,16 +26,4 @@ a{
   list-style: none;
   margin-left: 60px;
   float: right;
-}
-
-li{
-  float: right;
-}
-
-hr{
-  max-height: 0;
-  width: 1500px;
-  position: fixed;
-  margin-top: 0px;
-  color: black;
 }
