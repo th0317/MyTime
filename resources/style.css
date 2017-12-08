@@ -1,0 +1,38 @@
+.header{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+  display: flex;
+  padding: 6px;
+  margin: 5px;
+}
+
+p{
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+ul,
+a{
+  color: black;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  list-style: none;
+  margin-left: 60px;
+}
+
+li{
+  float: right;
+}
+
+hr{
+  max-height: 0;
+  width: 1500px;
+  position: fixed;
+  margin-top: 0px;
+  color: black;
+}
