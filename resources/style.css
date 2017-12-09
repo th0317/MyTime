@@ -39,6 +39,13 @@ a{
   width: 630px;
 }
 
+.medium{
+  display: inline-block;
+  float: center;
+  width: 300px;
+  margin-top: -10px;
+}
+
 .image{
   position: relative;
   width: 100%;
